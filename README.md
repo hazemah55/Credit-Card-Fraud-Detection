@@ -68,6 +68,20 @@ Through this project, I gained practical experience in:
 - Experiment with hyperparameter optimization.
 - Develop a simple web application for transaction classification.
 
+
+### Dataset Source
+
+This project uses the **Credit Card Fraud Detection dataset**, containing 284,807 transactions and 31 columns.
+
+The dataset includes anonymized features (V1–V28), transaction time, transaction amount, and a target variable (`Class`) indicating whether a transaction is fraudulent.
+
+**Dataset:** [Credit Card Fraud Detection — Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+To reproduce the project, download `creditcard.csv` from Kaggle and update the file path in the notebook.
+
+The dataset is not included in this repository.
+
+
 ## Author
 
 **Hazem Ahmed Wageh**
